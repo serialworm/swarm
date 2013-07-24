@@ -1,4 +1,4 @@
 swarm
 =====
 
-A simple, scaleable community platform
+A simple, scalable community platform
