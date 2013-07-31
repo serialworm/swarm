@@ -9,4 +9,4 @@
 
 # Make sure your secret_key_base is kept private
 # if you're sharing your code publicly.
-Rails.application.config.secret_key_base = '7c3a6b7652e0281a46547812959795a3b0454ed31816dfd7d4509a79c41354031afb3b1088c914cba4cc2ba8c4083bfc31f150c76d82c8f620dd45b0a1a8f9de'
+Swarm::Application.config.secret_key_base = '76d4c04bfd89403bafa782236b6d16e6ef45d0ae7eb7f8ebb590b59a1a51cad705ea5dd2bfbf9df4e07f86307326695a8cdfbbb196b44c664106b0d322f769c8'
