@@ -14,7 +14,7 @@ gem 'journey', github: 'rails/journey'
 gem 'activerecord-deprecated_finders', github: 'rails/activerecord-deprecated_finders' 
 
 #gem 'slim'
-#gem 'devise', github: 'plataformatec/devise', branch: 'rails4'
+gem "devise", "~> 3.0.1"
 
 #group :test, :development do
 #  gem 'pry'
